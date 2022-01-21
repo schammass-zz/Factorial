@@ -1,0 +1,2 @@
+# Factorial
+Finding the factorial of a given number
